@@ -6,6 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadielsousa/amora-a2f.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jadielsousa/amora-a2f/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist/*",
+    "package.json",
+    "CHANGELOG.md",
+    "README.md"
+  ],
   "keywords": [],
   "author": "Jadiel Sousa <jadield14s@gmail.com>",
   "license": "ISC",
