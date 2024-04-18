@@ -1,0 +1,24 @@
+{
+  "name": "amora-a2f",
+  "version": "1.0.0",
+  "description": "Simples gerador de autenticação de dois fatores.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jadiel Sousa <jadield14s@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "notp": "^2.0.3",
+    "qrcode": "^1.5.3",
+    "thirty-two": "^1.0.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@types/notp": "^2.0.5",
+    "@types/qrcode": "^1.5.5"
+  }
+}
